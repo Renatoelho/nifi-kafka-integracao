@@ -4,12 +4,13 @@ Vou mostrar como realizar a integração entre o ***Apache Nifi*** e o ***Apache
 
 As ferramentas utilizadas neste projeto são o Apache Nifi e o Apache Kafka. O Nifi oferece uma interface gráfica intuitiva para criação e ***gerenciamento de fluxos de dados*** em tempo real, enquanto o Kafka é uma plataforma distribuída para ***armazenamento e transmissão*** de mensagens. Essas ferramentas são ideais para simplificar a arquitetura de processamento de dados e melhorar a comunicação entre sistemas.
 
-
+<!--
 # Apresentação em vídeo
 
 <p align="center">
   <a href="https://youtu.be/xxxxxxxxxx" target="_blank"><img src="deploy/thumbnail/Nifi_Kafka_Youtube.png" alt="Vídeo de apresentação"></a>
 </p>
+-->
 
 ### Requisitos
 
@@ -29,7 +30,7 @@ docker compose -p nifi_kafka -f docker-compose.yaml up -d
 ```
 
 
-### Credenciais de acesso às ferramentas
+### Acesso às ferramentas
 
 + Apache Nifi
 
@@ -81,5 +82,3 @@ Welcome to Apache ZooKeeper, ***Apache Zookeeper***. Disponível em: <https://zo
 Control Center, ***Docker Hub***. Disponível em: <https://hub.docker.com/r/confluentinc/cp-enterprise-control-center>. Acesso em: 28 mar. 2024.
 
 A Complete Comparison of Apache Kafka vs Confluent, ***Confluent***. Disponível em: <https://www.confluent.io/apache-kafka-vs-confluent/>. Acesso em: 28 mar. 2024.
-
-How to Successfully Implement A Healthcheck In Docker Compose, ***Linuxhint***. Disponível em: <https://linuxhint.com/how-to-successfully-implement-healthcheck-in-docker-compose/>. Acesso em: 28 mar. 2024.
