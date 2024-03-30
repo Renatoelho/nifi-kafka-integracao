@@ -4,13 +4,13 @@ Vou mostrar como realizar a integração entre o ***Apache Nifi*** e o ***Apache
 
 As ferramentas utilizadas neste projeto são o Apache Nifi e o Apache Kafka. O Nifi oferece uma interface gráfica intuitiva para criação e ***gerenciamento de fluxos de dados*** em tempo real, enquanto o Kafka é uma plataforma distribuída para ***armazenamento e transmissão*** de mensagens. Essas ferramentas são ideais para simplificar a arquitetura de processamento de dados e melhorar a comunicação entre sistemas.
 
-<!--
+
 # Apresentação em vídeo
 
 <p align="center">
   <a href="https://youtu.be/xxxxxxxxxx" target="_blank"><img src="deploy/thumbnail/Nifi_Kafka_Youtube.png" alt="Vídeo de apresentação"></a>
 </p>
--->
+
 
 ### Requisitos
 
