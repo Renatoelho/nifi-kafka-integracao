@@ -8,7 +8,7 @@ As ferramentas utilizadas neste projeto são o Apache Nifi e o Apache Kafka. O N
 # Apresentação em vídeo
 
 <p align="center">
-  <a href="https://youtu.be/xxxxxxxxxx" target="_blank"><img src="deploy/thumbnail/Nifi_Kafka_Youtube.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/kJGdfa8osTY" target="_blank"><img src="deploy/thumbnail/Nifi_Kafka_Youtube.png" alt="Vídeo de apresentação"></a>
 </p>
 
 
